@@ -9,5 +9,7 @@ public class Hello {
 		System.out.println("asdasd捱三顶五撒大1");
 		System.out.println("葛中响月薪100元a");
 		System.out.println("asdasd捱三顶五撒大");
+		System.out.println("asdasd捱三顶五撒大aaa");
+		
     }
 }
