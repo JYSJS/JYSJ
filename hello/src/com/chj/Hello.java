@@ -7,5 +7,7 @@ public class Hello {
 		System.out.println("李文昊月薪100万");
 		System.out.println("葛中响月薪100元");
 		System.out.println("asdasd捱三顶五撒大");
+		System.out.println("葛中响月薪100元");
+		System.out.println("asdasd捱三顶五撒大");
     }
 }
