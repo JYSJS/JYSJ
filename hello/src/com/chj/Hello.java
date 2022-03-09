@@ -11,5 +11,6 @@ public class Hello {
 		System.out.println("asdasd捱三顶五撒大更好的地方给对方");
 		System.out.println("asdasd捱三顶五撒大更好的地方给对阿达的方");
 		System.out.println("asdasd捱三顶五撒大更好的地方给对阿达的方");
+		System.out.println("asdasd捱三顶五撒大更好的地方给对方");
     }
 }
